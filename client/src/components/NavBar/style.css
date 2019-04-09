@@ -1,0 +1,14 @@
+.navbar-light {
+  background-color:blue;
+  height: 104px;
+  line-height: 24px;
+  font-size: 95px;
+  /* letter-spacing: 0.1em; */
+
+}
+#svd, #srch {
+  font-size:30px;
+  color:white;
+}
+
+
